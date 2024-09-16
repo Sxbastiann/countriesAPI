@@ -1,4 +1,3 @@
-// server.js
 /********************************************************************************
 *  WEB422 – Assignment 1
 * 
@@ -8,7 +7,7 @@
 *  https://www.senecapolytechnic.ca/about/policies/academic-integrity-policy.html
 * 
 *  Name: Sebastian
-*  Student ID: 106524215
+*  Student ID: 106534215
 *  Date: Sep-XX-2024
 *
 *  Published URL:
